@@ -1,13 +1,13 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
+**If you enjoy this project, please consider [supporting me](https://www.paypal.me/omkarbhone) to continue developing and maintaining it.**
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/omkarbhone)
 
-###### https://vinaysomawat.github.io/
-
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
+###### https://omkarrr877.github.io/
+(https://github.com/omkarrr877/omkarrr877.github.io/blob/master/omkarrr877bio.gif
+![Image])
 ### About me
 * Competitive Programming Page
 * Web Designing Page
@@ -41,11 +41,11 @@ Web Portfolio to showcase projects and skills in better manner.
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
+3. `git clone https://github.com/yourgithubpseudo/omkarrr877.github.io.git`
 
 #### To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+1. Choose any open issue from [here](https://github.com/omkarrr877/omkarrr877.github.io/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
